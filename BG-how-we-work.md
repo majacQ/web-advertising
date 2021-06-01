@@ -9,7 +9,7 @@ The Business Group is open to anyone, on the payment of an organizational [parti
 
 ## Documents
 
-Group participants have created a number of documents in the [web-advertising github repository](https://github.com/w3c/web-advertising/). At this stage they represent unofficial drafts, produced by one or more indivdiuals, without any indication of group-level consensus. 
+Group participants have created a number of documents in the [web-advertising github repository](https://github.com/w3c/web-advertising/#readme). At this stage they represent unofficial drafts, produced by one or more indivdiuals, without any indication of group-level consensus. 
 
 
 Just as formal Recommendation-track documents in W3C have a "Status of
@@ -35,7 +35,7 @@ would need to gather group consensus on texts.
 ## Communications
 ### Calls
 
-The group meets in weekly teleconferences (currently Tuesday at 1500 UTC/11 Eastern). Agendas are shared the day before. Connection information is available to group participants.
+The group meets in weekly teleconferences (currently Tuesday at 1600 UTC/11 Eastern). Agendas are shared the day before. Connection information is available to group participants.
 
 To request time on an upcoming agenda, participants should email the list with "Subject: agenda+ [topic]". 
 

@@ -6,11 +6,19 @@ Raise issues, add drafts. As you add a document, feel free to add a PR for its d
 
 # Introductory and Summary Material
 
-* [Success Criteria](success-criteria.md), this document defines success criteria to consider when evaluating proposals which impact web advertising.
+* [Advertising Technology Use Cases](support_for_advertising_use_cases.md): "Use Cases" Tabulation of common AdTech use cases and the proposals or browsers supporting them
 * [Overview of Online Advertising & Marketing](advertising101.md), an overview of common business use cases for digital advertising.
 * [Participants in Online Advertising](OnlineAdvertisingParticipants.md) "Hello Ads," an introduction to the online advertising ecosystem.
 * [Common User Flows](common-user-flows-in-web-advertising.md): Example user experiences and the parties involved.
-* [Advertising Technology Use Cases](support_for_advertising_use_cases.md): Tabulation of common AdTech use cases and the proposals or browsers supporting them
+
+# Testing Opportunities 
+
+* [FLoC Origin Trial](https://developer.chrome.com/origintrials/#/view_trial/213920982300098561)
+* [Eyeo FLoC-style Browser Extension](https://crumbs.org/)
+* [FLoC Simulator](https://github.com/shigeki/floc_simulator)
+* [Magnite FLEDGE Polyfill](https://github.com/MagniteEngineering/fledge.polyfill)
+* [Criteo Privacy Preserving ML with Data](https://competitions.codalab.org/competitions/31485)
+* [Google Ads Privacy Tests](https://github.com/google/ads-privacy/tree/master/experiments)
 
 # Ideas and Proposals
 
@@ -29,6 +37,7 @@ Raise issues, add drafts. As you add a document, feel free to add a PR for its d
 * [Self-Review Questionnaire: Interoperability, Choice, Accessibility and Accountability](interoperability-choice-accessibility-accountability-questionairre.md)
 * [Frequency Capping and Frequency Optimization](frequency-capping-and-optimization.md)
 * [Privacy Preserving Multi-Channel Attribution](privacy-preserving-multi-channel-attribution.md)
+* [Proposed Success Criteria](success-criteria.md), this document defines success criteria to consider when evaluating proposals which impact web advertising.
 
 # Ideas and Proposals (links outside this repo)
 * [Private fraud prevention](https://github.com/siyengar/private-fraud-prevention)
@@ -44,11 +53,20 @@ Raise issues, add drafts. As you add a document, feel free to add a PR for its d
 * [FLoC: Federated Learning of Cohorts](https://github.com/jkarlin/floc)
 * [PIGIN: Private Interest Groups, Including Noise](https://github.com/michaelkleber/pigin) (deprecated in favor of TURTLEDOVE)
 * [TURTLEDOVE](https://github.com/WICG/turtledove)
-* [Product-level TURTLEDOVE](https://github.com/jonasz/product_level_turtledove) (extension feasible for TURTLEDOVE & SPARROW)
+* [Product-level TURTLEDOVE](https://github.com/WICG/turtledove/blob/master/PRODUCT_LEVEL.md) (extension feasible for TURTLEDOVE & SPARROW)
+* [Outcome-based TURTLEDOVE](https://github.com/WICG/turtledove/blob/master/OUTCOME_BASED.md) (extension introducing in Turtledove outcome-based approach - monitor and validate bidding outcomes, not inputs)
+* [TURTLEDOVE-js demo](https://github.com/dervan/turtledove-js) (demo implementation of TURTLEDOVE - based on available technologies)
 * [isLoggedIn](https://github.com/WebKit/explainers/tree/main/IsLoggedIn)
 * [SPARROW](https://github.com/WICG/sparrow) 
 * [Gatekeeper](https://github.com/MagniteEngineering/Gatekeeper)
 * [Proprietary Cohorts](https://github.com/MagniteEngineering/ProprietaryCohorts)
 * [Fenced Frame](https://github.com/shivanigithub/fenced-frame/)
-* [TURTLEDOVE-js demo](https://github.com/dervan/turtledove-js)
 * [TERN](https://github.com/WICG/turtledove/blob/master/TERN.md) (TURTLEDOVE Enhancements with Reduced Networking)
+* [PARRROT](https://github.com/prebid/identity-gatekeeper/blob/master/proposals/PARRROT.md) (PARRROT: The Publisher Auction Responsibility Retention Revision of TurtleDove)
+* [PELICAN](https://github.com/neustar/pelican) (Private Learning and Inference for Causal Attribution)
+* [SPURFOWL](https://github.com/AdRoll/privacy/blob/main/SPURFOWL.md) (Sandboxed Private User Reporting Functions Operating Within Limits) and other [NextRoll proposals](https://github.com/AdRoll/privacy) including MURRE.
+* [TEETAR](https://github.com/criteo/privacy/blob/main/TEETAR/README.md)(TEETAR: Testing Environment Enabling Truthful and Actionable Results)
+* [FLEDGE](https://github.com/WICG/turtledove/blob/master/FLEDGE.md), the collection of proposals in the greater TURTLEDOVE idea space that Chrome plans to implement in 2021.
+* [SWAN](https://github.com/1plusX/swan) Storage With Access Negotiation (SWAN)
+* [SPECTACLE](https://gitlab.com/eyeo/lab/spectacle/-/blob/master/README.md) Sensible Privacy Enablement by Clustering Targeting Attributes in CLiEnt  and [Crumbs](https://crumbs.org/)
+* [PARAKEET](https://github.com/microsoft/privacy-preserving-ads/blob/main/Parakeet.md) "Private and Anonymized Requests for Ads that Keep Efficacy and Enhance Transparency"

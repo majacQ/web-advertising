@@ -7,7 +7,6 @@ Raise issues, add drafts. As you add a document, feel free to add a PR for its d
 # Introductory and Summary Material
 
 * [Advertising Technology Use Cases](support_for_advertising_use_cases.md): "Use Cases" Tabulation of common AdTech use cases and the proposals or browsers supporting them
-* [Success Criteria](success-criteria.md), this document defines success criteria to consider when evaluating proposals which impact web advertising.
 * [Overview of Online Advertising & Marketing](advertising101.md), an overview of common business use cases for digital advertising.
 * [Participants in Online Advertising](OnlineAdvertisingParticipants.md) "Hello Ads," an introduction to the online advertising ecosystem.
 * [Common User Flows](common-user-flows-in-web-advertising.md): Example user experiences and the parties involved.
@@ -18,6 +17,8 @@ Raise issues, add drafts. As you add a document, feel free to add a PR for its d
 * [Eyeo FLoC-style Browser Extension](https://crumbs.org/)
 * [FLoC Simulator](https://github.com/shigeki/floc_simulator)
 * [Magnite FLEDGE Polyfill](https://github.com/MagniteEngineering/fledge.polyfill)
+* [Criteo Privacy Preserving ML with Data](https://competitions.codalab.org/competitions/31485)
+* [Google Ads Privacy Tests](https://github.com/google/ads-privacy/tree/master/experiments)
 
 # Ideas and Proposals
 
@@ -36,6 +37,7 @@ Raise issues, add drafts. As you add a document, feel free to add a PR for its d
 * [Self-Review Questionnaire: Interoperability, Choice, Accessibility and Accountability](interoperability-choice-accessibility-accountability-questionairre.md)
 * [Frequency Capping and Frequency Optimization](frequency-capping-and-optimization.md)
 * [Privacy Preserving Multi-Channel Attribution](privacy-preserving-multi-channel-attribution.md)
+* [Proposed Success Criteria](success-criteria.md), this document defines success criteria to consider when evaluating proposals which impact web advertising.
 
 # Ideas and Proposals (links outside this repo)
 * [Private fraud prevention](https://github.com/siyengar/private-fraud-prevention)
